@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jung Woochan</h1>
+<h1 align="center">안녕하세요. 백엔드 겸 AI 개발자입니다.</h1>
 <p align="center">I'm currently focused on backend and AI development using Java and Python!</p>
 
 
