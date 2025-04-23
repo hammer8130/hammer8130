@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jung Woochan</h1>
 <p align="center">I'm currently focused on backend and AI development using Java and Python!</p>
 
-## 📊 GitHub Stats  
-![JungWoochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammer8130&show_icons=true&theme=radical)
+
 
 ## 🔧 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammer8130&layout=compact&theme=tokyonight)
