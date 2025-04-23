@@ -1,15 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jung Woochan</h1>
+<p align="center">I'm currently focused on backend and AI development using Java and Python!</p>
 
-<!--
-**hammer8130/hammer8130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
+![JungWoochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammer8130&show_icons=true&theme=radical)
 
-## 📂 Category: Java Practice
-- [Practice1](https://github.com/hammer8130/Practice1)
-- [Practice2](https://github.com/hammer8130/Practice2)
+## 🔧 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammer8130&layout=compact&theme=tokyonight)
 
-## 🧠 Category: AI Projects
-- [Rezoom](https://github.com/AI-5team-final/rezoom)
-- [HomeLex](https://github.com/AI-5team-final/homelex)
+## 💻 Tech Stack  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-## 🧪 Category: Test Projects
-- [testproject](https://github.com/hammer8130/testproject)
+## 🔗 Links  
+- 📄 [Velog](https://velog.io/@hammer8130)
