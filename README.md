@@ -2,6 +2,8 @@
 <p align="center">AI를 활용한 실용적인 서비스 개발에 강점을 가진 개발자입니다.</p>
 
 
+## 📊 GitHub Stats  
+!(https://github-readme-stats.vercel.app/api?username=Sonyeoul&show_icons=true&theme=radical)
 
 ## Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammer8130&layout=compact&theme=tokyonight)
