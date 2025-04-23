@@ -1,9 +1,6 @@
 <h1 align="center">안녕하세요. 백엔드 겸 AI 개발자입니다.</h1>
 <p align="center">AI를 활용한 실용적인 서비스 개발에 강점을 가진 개발자입니다.</p>
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonyeoul&show_icons=true&theme=radical)
-
 ## Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammer8130&layout=compact&theme=tokyonight)
 
