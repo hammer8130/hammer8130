@@ -1,6 +1,5 @@
 <h1 align="center">안녕하세요. 백엔드 겸 AI 개발자입니다.</h1>
-<p align="center">AI를 활용한 실용적인 서비스 개발에 강점을 가진 개발자입니다.![image](https://github.com/user-attachments/assets/15351cb6-41a6-430c-b833-9c1713694169)
-</p>
+<p align="center">AI를 활용한 실용적인 서비스 개발에 강점을 가진 개발자입니다.!</p>
 
 
 
